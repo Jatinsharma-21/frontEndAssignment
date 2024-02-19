@@ -2,17 +2,18 @@
 
 MERN-E-Commerce-Frontend is the frontend of an e-commerce web application built with ReactJS ,Material UI, ContextAPI, React-router-dom
 
-## Features
+## Product Link
+https://65d32e748057b9e7c18de555--fascinating-frangipane-24eed3.netlify.app/
 
-- User authentication and authorization(JWT)
+## Features
+- Home page which contains all the features like navigation categories and all.
+- Products page that displays products based on category selection or search bar.
+- Shopping cart with add to cart functionality, quantity adjustment, and remove from cart button
+- User account section for user registration/login and password recovery.
 - Admin dashboard for managing products, orders, users and to show statistics
-- Payemnt Gateway
-- Mail Service
-- Forgot Password & Reset Password
 - Product listing and search
 - Product details and reviews
 - Cart management
-- Order history
 
 ## Tech Stack
 - MongoDB
